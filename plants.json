@@ -1,3 +1,19 @@
 {
-    "hi": "hi"
+    "Lettuce": 0.6,
+    "Spinach": 0.9,
+    "Kale": 0.9,
+    "Swiss Chard": 0.9,
+    "Cabbage": 0.9,
+    "Potato": 1.5,
+    "Radish": 0.6,
+    "Carrot": 0.6,
+    "Beet": 0.6,
+    "Garlic": 0.45,
+    "Tomato": 1.2,
+    "Zucchini": 1.2,
+    "Pumpkin": 0.6,
+    "Okra": 0.6,
+    "Broccoli": 0.6,
+    "Cauliflower": 1.2,
+    "Brussel Sprout": 0.6
 }
